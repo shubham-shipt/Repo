@@ -1,1 +1,1 @@
-# paint-github-subscription-d7ed1
+Just  a repo
