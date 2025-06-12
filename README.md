@@ -95,9 +95,10 @@ $ cat /etc/addresh | grep contact
 
 ## 👨‍💻 Professional Profile
 
-I'm Shubham, a cybersecurity enthusiast and software developer dedicated to building secure systems and exploring ethical hacking. My journey combines programming expertise with a passion for protecting digital environments through hands-on learning and community engagement.
+Hi, I'm Shubham.
+I'm learning web development and exploring cybersecurity. I enjoy coding, trying ethical hacking tools, and building small projects as I improve my skills step by step.
 
-- 🛡️ **Focus:** Ethical hacking,  software development, cybersecurity fundamentals
+- 🛡️ **Focus:** Ethical hacking,  web development, cybersecurity fundamentals
 - 🔬 **Interests:** Penetration testing, web security, CTF competitions, cloud security
 - 💻 **Skills:**  C/C++,   Python,   JavaScript, Html-Css,  Web-Dev,  Linux,   Bash,  Github, Git
 - 🌐 **Communities:** Active in cybersecurity forums, and open-source projects
@@ -308,7 +309,17 @@ int main() {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubham-shipt&theme=github_dark" alt="Development Metrics" />
 </div>
 
+
+
+<div align="center">
+  <a href="https://github.com/shubham-shipt">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-shipt&theme=github_dark" width="100%" />
+  </a>
+</div>
+
 <!-- Contribution Analysis with Enhanced Visual -->
+
+
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=shubham-shipt&limit=5&theme=dark&title_color=0D5F1A&text_color=ffffff&bg_color=0d1117&combine_all_yearly_contributions=true" alt="Top Project Contributions" />
 </div>
@@ -319,11 +330,7 @@ int main() {
 </div>
 
 <!-- Metrics Dashboard with Glowing Effect -->
-<div align="center">
-  <img src="https://img.shields.io/github/issues-closed/shubham-shipt/your-cyber-project?color=0D5F1A&label=Issues%20Resolved" alt="Issues Resolved" />
-  <img src="https://img.shields.io/github/stars/shubham-shipt?color=0D5F1A&label=Endorsements" alt="Endorsements" />
-  <img src="https://img.shields.io/github/commit-activity/m/shubham-shipt/your-cyber-project?color=0D5F1A&label=Development%20Activity" alt="Development Activity" />
-</div>
+
 
 <!-- Philosophy with Animated Background -->
 <h3>💭</h3>
@@ -335,11 +342,7 @@ int main() {
   
 
 <!-- Comprehensive Portfolio with Enhanced Visuals -->
-<div align="center">
-  <a href="https://github.com/shubham-shipt">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-shipt&theme=github_dark" width="100%" />
-  </a>
-</div>
+
 
 <!-- Animated Skills Section -->
 <div align="center">
