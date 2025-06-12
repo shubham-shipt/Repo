@@ -1,7 +1,7 @@
 <!-- Storybook-style GitHub README -->
 
 <h1 align="center">📖 CodeLines: The Journey of a Developer</h1>
-<h3 align="center">by Shubham Muddamwar — a DevTale from Chandrapur</h3>
+<h3 align="center">by Shubham — a DevTale from Delhi</h3>
 
 ---
 
@@ -20,10 +20,10 @@ With a degree in Electrical Engineering from Amravati University in hand, I wand
 
 Here began my **MERN Stack** journey:  
 A realm of:
-- 💡 JavaScript spells
-- 🧩 React potions
-- ⚙️ Node scrolls
-- 🧱 MongoDB castles
+- 💡 JavaScript 
+- 🧩 React 
+- ⚙️ Node 
+- 🧱 MongoDB 
 
 I forged projects from raw ideas:
 - ✨ Glamour-Clone: A shopping spell
