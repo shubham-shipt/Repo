@@ -1,7 +1,7 @@
 <!-- Storybook-style GitHub README -->
 
 <h1 align="center">📖 CodeLines: The Journey of a Developer</h1>
-<h3 align="center">by Shubham — a DevTale from Delhi</h3>
+<h3 align="center">by Shubham </h3>
 
 ---
 
