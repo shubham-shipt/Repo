@@ -78,7 +78,7 @@ $ cat /etc/addresh | grep contact
   </a>
 </p>
 
-## 🔐 Cybersecurity Arsenal
+## 🔐  Arsenal
 
 <div align="center">
   <table border="0" align="center">
