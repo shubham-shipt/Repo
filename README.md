@@ -272,20 +272,64 @@ int main() {
 <!-- Featured Security Projects with Hover Effects -->
 <h3>🚀  Projects</h3>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
+
+<div style="
+  display: grid; 
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); 
+  gap: 20px; 
+  justify-items: center;
+">
   <a href="https://github.com/shubham-shipt/keylog-v6">
     <img 
       src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=keylog-v6&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&border_color=2D8F3A&border_radius=10" 
-      style="width: 400px; max-width: 90%;" 
+      style="width: 100%; max-width: 400px;" 
     />
   </a>
+
   <a href="https://github.com/shubham-shipt/Python-Mini-Projects">
     <img 
       src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=Python-Mini-Projects&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&border_color=2D8F3A&border_radius=10" 
-      style="width: 400px; max-width: 90%;" 
+      style="width: 100%; max-width: 400px;" 
+    />
+  </a>
+
+  <a href="https://github.com/shubham-shipt/cs2-mvp-autochat">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=cs2-mvp-autochat&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&border_color=2D8F3A&border_radius=10"
+      style="width: 100%; max-width: 400px;"
+    />
+  </a>
+
+  <a href="https://github.com/shubham-shipt/DailyDesk">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=DailyDesk&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&border_color=2D8F3A&border_radius=10"
+      style="width: 100%; max-width: 400px;"
+    />
+  </a>
+
+  <a href="https://github.com/shubham-shipt/Cyber-Library">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=Cyber-Library&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&border_color=2D8F3A&border_radius=10"
+      style="width: 100%; max-width: 400px;"
+    />
+  </a>
+
+  <a href="https://github.com/shubham-shipt/Kali-Wall.sh">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=Kali-Wall.sh&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&border_color=2D8F3A&border_radius=10"
+      style="width: 100%; max-width: 400px;"
+    />
+  </a>
+
+  <a href="https://github.com/shubham-shipt/Shineword">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=Shineword&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&border_color=2D8F3A&border_radius=10"
+      style="width: 100%; max-width: 400px;"
     />
   </a>
 </div>
+
 
 
 ## 📊 Analytics Dashboard
